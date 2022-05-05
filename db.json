@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,75 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "hello",
+      "dogBreed": "unknown",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 10
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "dogName": "Lech",
+      "dogBreed": "Poodle",
+      "id": 14
+    },
+    {
+      "dogName": "Lech",
+      "dogBreed": "Poodle",
+      "id": 15
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +88,138 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 1
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 2
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 3
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 4
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 5
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 6
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 7
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 8
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 9
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 10
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 11
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 12
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 13
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 14
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 15
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 16
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 17
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 18
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 19
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 20
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 21
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 22
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 23
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 24
+    },
+    {
+      "name": "sara",
+      "email": "sara@example.com",
+      "id": 25
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
